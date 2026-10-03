@@ -88,26 +88,37 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Lost & Found Portal</h3>
+      <h3 align="center">🔍 Campus Lost & Found Portal</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status Badge" />
+        <img src="https://img.shields.io/badge/Status-Live_%26_Deployed-brightgreen?style=flat-square" alt="Status Badge" />
+        <img src="https://img.shields.io/badge/Deployed_on-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render Badge" />
       </p>
-      <p>
-        A web-based platform for reporting lost items, managing found items, and helping users find matching lost belongings seamlessly.
+      <p align="justify">
+        A full-stack campus web portal engineered to streamline reporting, cataloging, and recovering lost & found items with automated notification systems.
       </p>
+      <p><b>✨ Key Highlights:</b></p>
+      <ul>
+        <li><b>Lost & Found Cataloging:</b> Real-time reporting with item attributes & campus location tags.</li>
+        <li><b>Automated Email Match Alerts:</b> Python SMTP service notifying owners upon verification.</li>
+        <li><b>SQLite Data Store:</b> Persistent database handling item logs, claims, and resolution status.</li>
+      </ul>
       <p><b>Tech Stack:</b></p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <br/>
       <p align="center">
-        <a href="https://github.com/thahirahamed33-tech/LFP-MAIN">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        <a href="https://lost-found-portal-51t9.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/thahirahamed33-tech/lost-found-portal" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
