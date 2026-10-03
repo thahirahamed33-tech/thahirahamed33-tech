@@ -114,11 +114,11 @@
       <br/>
       <p align="center">
         <a href="https://lost-found-portal-51t9.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
         </a>
         &nbsp;
         <a href="https://github.com/thahirahamed33-tech/lost-found-portal" target="_blank">
-          <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
